@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claudialsm
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning React, C#, Java, data structures and algorithms (to improve code efficiency)
+- 🌱 I’m currently learning React, C# and Java
 - 💞️ I’m looking to collaborate on backend development projects
 
 <!---
