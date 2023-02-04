@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @claudialsm
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning React, C# and Java
+- 👀 I’m currently working on backend development
 - 💞️ I’m looking to collaborate on backend development projects
 
 <!---
